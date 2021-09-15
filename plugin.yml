@@ -1,0 +1,6 @@
+name: Broadcast Array
+author: Gov
+api: 3.0.0
+version: 1.0.0
+main: broadcast\main
+description: Broadcast that goes through a list of things to say woop woop.
